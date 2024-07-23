@@ -1,7 +1,4 @@
-# Ex.No: 07                                       AUTO REGRESSIVE MODEL
-### Date: 
-#### NAME : KAVINRAJA D
-#### REG NO : 212222240047
+# AUTO REGRESSIVE MODEL
 ### AIM:
 To Implementat an Auto Regressive Model using Python
 ### ALGORITHM:
